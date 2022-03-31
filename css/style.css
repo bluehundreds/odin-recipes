@@ -1,0 +1,18 @@
+body{
+  background-color: #FC8369;
+  color: #F9EFEC;
+  font-family: snell roundhand;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.top-left{
+  position: absolute;
+  left: 100px;
+
+}
+
+.top-right{
+  position: absolute;
+  right: 100px;
+}
