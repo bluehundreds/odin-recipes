@@ -1,1 +1,1 @@
-I will be creating a website that will host some food recipes. I hope to gain a better understadning of HTML and the basic structure/elements of a website. 
+I will be creating a website that will host some food recipes. I hope to gain a better understanding of HTML and the basic structure/elements of a website. 
